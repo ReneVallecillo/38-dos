@@ -1,4 +1,4 @@
 theme="beet"
-baseURL = "http://example.org/"
+baseURL = "https://renevallecillo.github.io/38-dos/"
 languageCode = "en-us"
 title = "My New Hugo Site"
