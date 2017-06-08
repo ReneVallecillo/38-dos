@@ -12,23 +12,24 @@
     <link href='http://fonts.googleapis.com/css?family=Abel|Source+Sans+Pro:400,300,300italic,400italic,600,600italic,700,700italic,900,900italic,200italic,200'
         rel='stylesheet' type='text/css'>
     <!-- inject:css -->
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/animate/animate.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/elasic-slider/elastic.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/iconmoon/linea-icon.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/owl-carousel/owl.carousel.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/owl-carousel/owl.theme.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/vendor/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/shortcodes.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/style.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/default-theme.css">
+    <link rel="stylesheet" href="{{ "/vendor/bootstrap/css/bootstrap.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/animate/animate.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/elasic-slider/elastic.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/iconmoon/linea-icon.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/magnific-popup/magnific-popup.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/owl-carousel/owl.carousel.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/owl-carousel/owl.theme.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/vendor/font-awesome/css/font-awesome.min.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/css/shortcodes.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "/css/default-theme.css" | relURL }}">
     <!-- endinject -->
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="assets/vendor/backward/html5shiv.js"></script>
     <script src="assets/vendor/backward/respond.min.js"></script>
     <![endif]-->
+     <base href="{{ .Site.BaseURL }}">
 </head>
 
 <body>
@@ -48,7 +49,7 @@
 
                         <!--logo start-->
                         <a href="index.html" class="logo-brand ">
-                    <img class="retina" src="{{ .Site.BaseURL }}/img/logo.png" alt="" />
+                    <img class="retina" src="{{"/img/logo.png" | relURL}}" alt="" />
                 </a>
                         <!--logo end-->
 
