@@ -1,4 +1,59 @@
 /*------------------------------------------------------------------
+    CUSTOM
+-------------------------------------------------------------------*/
+
+.main-map{
+    padding: 25px 0;
+}
+
+.main-map .map-icon{
+margin-bottom: 15px;
+}
+.green-txt {
+    color: #00b394;
+}
+
+.green-bg {
+    background-color: #03a488;
+}
+
+.slogan {
+    font-size: 48px;
+}
+
+.page-content.bg-store{
+    background: url('../img/store-bg.jpg');
+    height: 656px;
+    padding: 0 0;
+    width: 100%;
+    display: flex;
+    align-items:  center;
+}
+
+.center-row{
+    display:flex; 
+    align-items:center;
+}
+
+.no-bot-margin{
+    margin-bottom: 0;
+}
+
+.exp-block{
+    padding: 25px 0;
+    width: 100%;
+}
+
+.less-margin{
+    margin-bottom: 10px !important;
+    margin-top: 30px !important;
+}
+
+.service-section{
+    margin-bottom: 80px;
+}
+
+/*------------------------------------------------------------------
     page title
 -------------------------------------------------------------------*/
 .page-title {
@@ -191,6 +246,28 @@
 
 .featured-item .desc {
     color: #7e7e7e;
+    min-height: 110px;
+}
+
+.featured-item .desc ul {
+    height: 110px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    padding-left: 0;
+    list-style: none;
+
+}
+
+.featured-item .desc ul li {
+    display: inline-block;
+     padding-bottom: 20px;
+
+}
+
+.featured-item .desc ul li:before{
+     content:'-'; margin-right:0.5em;
+
 }
 
 .featured-item.border-box {
@@ -342,7 +419,7 @@
     height: 60px;
     text-align: center;
     border-radius: 4px;
-    background: #222;
+    background: #00b394;
     box-shadow: 0 0 0 10px #fff; 
     line-height: 60px;
 }
@@ -370,6 +447,10 @@
 
 .gray-bg {
     background: #f6f6f6;
+}
+
+.brown-bg {
+    background: #66594d;
 }
 
 .feature-bg-box,
@@ -2040,7 +2121,7 @@ dl.toggle.time-line:before {
 
 /*gutter*/
 .portfolio.gutter .portfolio-item {
-    padding: 10px;
+    padding: 5px !important;
 }
 
 /*portfolio 2 grid*/
@@ -2462,7 +2543,7 @@ dl.toggle.time-line:before {
 }
 
 .divider-small {
-    width: 40% !important;
+    width: 40% !portant;
 }
 
 .divider-small.text-center {
