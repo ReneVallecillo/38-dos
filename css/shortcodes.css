@@ -17,6 +17,15 @@ margin-bottom: 15px;
     background-color: #03a488;
 }
 
+.green-btn {
+    background-color: #33c2a9;
+    color: #fff;
+}
+
+.cream-bg {
+    background-color: #f5f5f5;
+}
+
 .slogan {
     font-size: 48px;
 }
@@ -51,6 +60,11 @@ margin-bottom: 15px;
 
 .service-section{
     margin-bottom: 80px;
+}
+
+.form-inline input{
+    height: 38px;
+    width: 360px !important;
 }
 
 /*------------------------------------------------------------------
