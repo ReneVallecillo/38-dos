@@ -3,12 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://renevallecillo.github.io/38-dos/categories/</loc>
-    <priority>0</priority>
+    <loc>https://renevallecillo.github.io/38-dos/product/gil/</loc>
+    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://renevallecillo.github.io/38-dos/</loc>
+    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://renevallecillo.github.io/38-dos/product/</loc>
+    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
     <priority>0</priority>
   </url>
   
