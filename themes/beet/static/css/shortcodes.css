@@ -103,6 +103,21 @@ hr.before-gallery {
     color: #757575;
 }
 
+.brand-nav {
+    color: #959595;
+}
+
+.brand-nav a {
+    color: #959595;    
+    display: inline-block;
+}
+
+.brand-nav-divider{
+    display: inline-block;
+    margin: 0 10px;
+    height: 17px;
+}
+
 /* ----------------------------------------------------------------
 	producto
 -----------------------------------------------------------------*/
