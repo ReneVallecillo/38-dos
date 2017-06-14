@@ -94,6 +94,122 @@ margin-bottom: 15px;
     line-height: 21px;
 }
 
+hr.before-gallery {
+    margin-bottom:20px;
+}
+
+.gallery-subtitle{
+    font-size: 13px;
+    color: #757575;
+}
+
+/* ----------------------------------------------------------------
+	producto
+-----------------------------------------------------------------*/
+.producto {
+    margin: 50px 0;
+}
+
+.producto .producto-item {
+    float: left;
+}
+
+.producto .producto-item .thumb {
+    position: relative;
+    height: 185px;
+    margin-bottom: 35px;
+}
+
+.producto .producto-item .thumb img {
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+.producto-description,
+.producto-description h4 a,
+.producto-hover .action-btn a {
+    text-align: left;
+    color: #222;
+}
+
+.producto-description h4 {
+    margin-bottom: 5px;
+    letter-spacing: 4px; 
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.producto-description p {
+    margin-bottom: 0;
+    letter-spacing: 3px;
+    color: #757575; 
+    font-size: 12px;
+    line-height: 18px;
+    /*font-family: 'Abel', sans-serif;*/
+    font-weight: normal;
+}
+
+.producto-description a,
+.producto-title a {
+    color: #757575;
+}
+
+/*gutter*/
+.producto.gutter .producto-item {
+    padding: 5px !important;
+}
+
+/*producto 2 grid*/
+.producto.col-2 .producto-item {
+    width: 49.99%;
+}
+
+/*producto 3 grid*/
+.producto.col-3 .producto-item {
+    width: 33.3333333%;
+}
+
+/*producto 4 grid*/
+.producto.col-4 .producto-item {
+    width: 24.98%;
+}
+
+/*producto 5 grid*/
+.producto.col-5 .producto-item {
+    width: 19.99%;
+}
+
+/*producto 6 grid*/
+.producto.col-6 .producto-item {
+    width: 16.666666667%;
+}
+
+.producto-filter {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.producto-filter li {
+    display: inline-block;
+}
+
+.producto-filter li a {
+    margin: 0 15px;
+    /*font-family: 'Abel', sans-serif;*/
+    letter-spacing: 3px; 
+    text-transform: uppercase;
+    color: #a9a8a8;
+    font-size: 14px;
+}
+
+.producto-filter li a:hover,
+.producto-filter li.active a {
+    color: #222;
+}
+
+
 /*------------------------------------------------------------------
     page title
 -------------------------------------------------------------------*/
@@ -530,7 +646,7 @@ margin-bottom: 15px;
     float: left;
     width: 33.3333333%;
     padding: 10px 0;
-}
+    }
 
 .featured-box .one-third:nth-child(2) {
     padding: 10px 10px;

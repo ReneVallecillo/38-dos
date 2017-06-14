@@ -60,7 +60,7 @@
                         <li><span> Procedencia </span> 1st June 2015</li>
                     </ul>
                     <div>
-                        <a href="#" class="btn btn-small btn-rounded btn-dark-solid  "> Ver Sitio </a>
+                        <a href="#" class="btn btn-small btn-rounded btn-dark-solid"> Ver Sitio </a>
                     </div>
                 </div>
             </div>
@@ -97,5 +97,33 @@
         </div>
     </div>
 </div>
+
+<hr class="before-gallery">
+
+<section class="body-content page-content p-bot-0 p-top-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h4 class="text-uppercase m-bot-0">Detalle de Productos</h4>
+                <div class="gallery-subtitle text-uppercase">Variaciones de a Marca que estan disponible en Nicaragua</div>
+                <div class="producto col-4 producto-gallery gutter ">
+                    {{ range $element := .Params.gallery}}
+                    <div class="producto-item cat1 cat3 ">
+                        <div class="thumb">
+                            <img src="{{ index $element 2 | relURL}}" alt="">
+                        </div>
+                        <div class="producto-description">
+                            <h4 class="text-uppercase">{{ index $element 0 }}</h4>
+                            <p>{{ index $element 1 | safeHTML}}</p>
+                        </div>
+                    </div>
+                    {{ end }}
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 
 {{ partial "footer.html" }}
