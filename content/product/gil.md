@@ -1,24 +1,23 @@
 +++
 date = "2017-06-12T20:36:57-06:00"
 title = "PORTAFOLIO DE MARCAS"
-subtitle = "Vicente Vidal"
+subtitle = "Gil"
 from = "01/10/2010"
 cat = "Nutrición y alimentos"
 origin = "Costa Rica"
 link = "http://google.com"
-description = "Hecho organicamente con las mejores papas compradas directamente al agricultor. Las acompañamos de los mejores ingredientes para que el producto final sea excelente conforme a la Receta Tradicional de 1931. Proporcionamos una calidad homogénea durante todo el año. Ninguna otra marca de patatas fritas hace todo lo que nosotros hacemos. Por eso las patatas fritas Vicente Vidal SON ÚNICAS!!"
-logo = "img/product/vicente-logo.png"
-landing = "img/product/vicente-landing.jpg"
-col1 = "<b>En Vicente Vidal creemos que la tradición y las recetas de siempre son la clave para conseguir las patatas más sabrosas, crujientes y saludables.</b>Por esta razón en Vicente Vidal freímos LAS PATATAS EN SARTÉN, al estilo tradicional, como siempre se ha hecho"
-col2 = "En Vicente Vidal nuestro compromiso es la creación de productos de calidad y nutricionalmente saludables. Colaboramos directamente con los agricultores para proporcionarles semillas seleccionadas para cultivar las mejores patatas. Todas nuestras patatas provienen exclusivamente de campos españoles. En toda nuestra gama de productos usamos ÚNICAMENTE aceite de oliva o aceite de girasol dependiendo del tipo de producto."
-col3  = "<b>BENEFICIOS DE LAS PATATAS</b><br> Las patatas tienen un bajo índice glucémico que hace que el estómago se sienta satisfecho por más tiempo. Los carbohidratos de la patata aportan mucha energía en forma de calorías que aumenta la vitalidad. Contienen mucha vitamina B6, necesaria para la renovación celular, un sistema nervioso saludable y un estado de ánimo equilibrado. Las altas cantidades de cobre y hierro que tienen, impulsan la actividad del cerebro"
+description = "Est in id dolor tempor exercitation occaecat ex occaecat aute nisi sunt. Anim laboris fugiat quis id ex ex qui incididunt consectetur consectetur incididunt consectetur. Excepteur consequat consectetur dolore ex pariatur. Esse qui deserunt commodo culpa amet consectetur voluptate ex tempor culpa do exercitation magna. Officia reprehenderit quis mollit excepteur fugiat fugiat reprehenderit non veniam et do amet aliqua. Velit elit ex excepteur Lorem eiusmod cillum sunt ea."
+logo = "img/product/gil-logo.jpg"
+landing = "img/product/gil-landing.jpg"
+col1 = "Exercitation incididunt elit aliquip proident sint non consequat aliquip non. Voluptate pariatur proident tempor veniam nostrud culpa fugiat. Culpa nostrud duis mollit cupidatat ex. Ut quis cillum quis dolore mollit. Ut ut excepteur reprehenderit do quis nulla. Enim do ullamco ea irure."
+col2 = "In duis ut exercitation minim pariatur non veniam anim non esse et aliquip est eiusmod. Velit ullamco culpa voluptate nulla adipisicing minim consectetur quis voluptate commodo nisi nisi est. Officia minim occaecat anim non sunt nostrud id mollit. Id consequat consequat dolore veniam dolore velit velit do tempor aliqua. Sit id duis id aliquip labore aliqua laborum veniam officia irure nisi."
+col3  = "Occaecat fugiat aliqua magna exercitation esse ipsum anim magna dolor veniam quis consequat. Quis ut sunt ipsum laboris Lorem. Deserunt qui velit Lorem velit non laborum ut dolor. Do eiusmod proident magna veniam aliqua dolore excepteur minim consectetur aliqua magna magna nostrud sint. Fugiat nisi do dolore excepteur incididunt id."
 gallery = [
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p1.jpg" ],
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p2.jpg" ],
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p3.jpg" ],
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p4.jpg" ],
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p5.jpg" ],
-    [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p6.jpg" ],
+    [ "Selfie Stick", "Con botón y cable", "img/product/gil/p1.jpg" ],
+    [ "Papas Fristas Onduladas", "Disponibles en: <br>500gr / 300gr  /  200gr<br>160gr  /  50gr  /  30gr", "img/product/gil/p1.jpg" ],
+    [ "Onduladas Corte Rústico", "Disponible en<br>300gr", "img/product/gil/p1.jpg" ],
+    [ "En Aceite de Oliva", "Disponibles en: <br>500gr / 300gr  /  200gr<br>160gr  /  50gr  /  30gr", "img/product/gil/p1.jpg" ],
+   
 ]
 
 +++
