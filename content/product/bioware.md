@@ -22,6 +22,8 @@ gallery = [
     [ "CAJAS 02", "Disponibles en: <br>Cuchara/Tenedor/Cuchillo","img/product/bioware/p6.jpg" ],
     [ "Bandeja", "Disponibles en: <br>Small/Medium/Large/X-Large","img/product/bioware/p7.jpg" ],
 ]
+nav_pre = "/product/ampup/"
+nav_next = "/product/gil/"
 
 +++
 

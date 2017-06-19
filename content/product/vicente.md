@@ -20,7 +20,8 @@ gallery = [
     [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p5.jpg" ],
     [ "Papas Ajo y Perejil", "Disponible en<br>135gr", "img/product/vicente/p6.jpg" ],
 ]
-
+nav_pre = "/product/ocb/"
+nav_next = "/product/ampup/"
 +++
 
 

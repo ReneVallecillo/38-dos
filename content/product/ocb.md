@@ -24,5 +24,7 @@ gallery = [
     [ "BANDEJA", "Disponibles en: <br>Small/Medium/Large/X-Large","img/product/ocb/p8.jpg" ],
     [ "CAJAS 01", "Disponibles en: <br>Small/Medium/Large/X-Large","img/product/ocb/p9.jpg" ],
 ]
+nav_pre = "/product/i2go/"
+nav_next = "/product/vicente/"
 +++
 

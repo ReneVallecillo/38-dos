@@ -38,5 +38,7 @@ gallery = [
      [ "CAJAS 01", "Disponibles en: <br>Small/Medium/Large/X-Large","img/product/i2go/p21.jpg" ],
     [ "CAJAS 02", "Disponibles en: <br>Cuchara/Tenedor/Cuchillo","img/product/i2go/p22.jpg" ],
 ]
+nav_pre = "/product/gil/"
+nav_next = "/product/ocb/"
 +++
 
