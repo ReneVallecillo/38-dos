@@ -41,7 +41,7 @@
                         </div>
                     </div>
                     <p class="product-description m-bot-10">
-                        {{ .Description }}
+                        {{ .Description | safeHTML }}
                     </p>
                     <ul class="portfolio-meta m-bot-0">
                         <li><span> Desde </span> {{ .Params.from}}</li>

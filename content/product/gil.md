@@ -17,9 +17,7 @@ gallery = [
     [ "Papas Fristas Onduladas", "Disponibles en: <br>500gr / 300gr  /  200gr<br>160gr  /  50gr  /  30gr", "img/product/gil/p1.jpg" ],
     [ "Onduladas Corte Rústico", "Disponible en<br>300gr", "img/product/gil/p1.jpg" ],
     [ "En Aceite de Oliva", "Disponibles en: <br>500gr / 300gr  /  200gr<br>160gr  /  50gr  /  30gr", "img/product/gil/p1.jpg" ],
-   
 ]
-
 +++
 
 
