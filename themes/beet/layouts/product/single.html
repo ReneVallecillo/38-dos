@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <div class="col-md-5">
-                    <div class="">
+                    <div class="p-top-25">
                         <img src="{{ .Params.logo | relURL}}" alt="" class="section-logo">
                     </div>
                     <div class="heading-title-side-border text-left m-bot-0">
@@ -70,7 +70,7 @@
             <div class="col-md-4">
                 <div class="">
                     <p>
-                        {{ .Params.col2 }}
+                        {{ .Params.col2 | safeHTML }}
                     </p>
 
                 </div>
