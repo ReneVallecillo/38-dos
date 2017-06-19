@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://renevallecillo.github.io/38-dos/product/i2go/</loc>
+    <lastmod>2017-06-18T23:25:34-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renevallecillo.github.io/38-dos/product/bioware/</loc>
+    <lastmod>2017-06-18T22:45:28-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renevallecillo.github.io/38-dos/product/ocb/</loc>
+    <lastmod>2017-06-18T22:04:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://renevallecillo.github.io/38-dos/product/ampup/</loc>
+    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://renevallecillo.github.io/38-dos/product/gil/</loc>
     <lastmod>2017-06-12T20:36:57-06:00</lastmod>
   </url>
@@ -14,13 +34,13 @@
   
   <url>
     <loc>https://renevallecillo.github.io/38-dos/</loc>
-    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
+    <lastmod>2017-06-18T23:25:34-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://renevallecillo.github.io/38-dos/product/</loc>
-    <lastmod>2017-06-12T20:36:57-06:00</lastmod>
+    <lastmod>2017-06-18T23:25:34-06:00</lastmod>
     <priority>0</priority>
   </url>
   
