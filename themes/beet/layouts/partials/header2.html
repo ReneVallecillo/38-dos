@@ -56,11 +56,21 @@
                         <!--mega menu start-->
                         <ul class="menuzord-menu menuzord-right c-nav_s-standard">
                             <li><a href="{{ "/" | relURL }}">Inicio</a></li>
-                            <li><a href="#">Valores</a></li>
-                            <li><a href="#">Productos</a></li>
-                            <li><a href="#">Servicios</a></li>
-                            <li><a href="#">Subscripciones</a></li>
-                            <li><a href="#">Conversemos</a></li>
+                            <li><a href="{{ "/#values" | relURL }}">Valores</a></li>
+                            <li><a href="{{ "/#products" | relURL }}">Productos</a>
+                                <ul class="dropdown">
+                                    <li><a href="{{ "/product/bioware/" | relURL }}">Bioware</a></li>
+                                    <li><a href="{{ "/product/vicente/" | relURL }}">Vicente Vidal</a></li>                                   </li>
+                                    <li><a href="{{ "/product/i2go/" | relURL }}">i2go</a></li>                              
+                                    <li><a href="{{ "/product/ocb/" | relURL }}">OCB</a></li>                                
+                                    <li><a href="{{ "/product/ampup/" | relURL }}">AMPUP</a></li>                            
+                                    <li><a href="{{ "/product/gil/" | relURL }}">GIL</a></li>                            
+                                </ul>
+                            </li>
+                            <li><a href="{{ "/#services" | relURL }}">Servicios</a></li>
+                            <li><a href="{{ "/#subscription" | relURL }}">Subscripciones</a></li>
+                            <li><a href="{{ "/#contact" | relURL }}">Conversemos</a></li>
+                            
                         </ul>
                         <!--mega menu end-->
 
